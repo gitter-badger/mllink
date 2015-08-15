@@ -1,5 +1,7 @@
 # Ссылки и полезная информация по Machine Learning
 
+[![Join the chat at https://gitter.im/denisbalyko/mllink](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denisbalyko/mllink?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Курсы
 * [Coursera ML](https://www.coursera.org/course/ml)
 * [Лекции yandex 2014 (Воронцов К.В)](https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC)
